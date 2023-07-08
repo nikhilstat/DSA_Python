@@ -1,4 +1,4 @@
-In this folder, you will find two files named bst.py andbst.ipynb containing the code and its working exmaples. 
+In this folder, you will find two files named bst.py and bst.ipynb containing the code and its working exmaples. 
 
 Binary Search tree is an extremely important abstract data type as it has Big O(logn) time complexity. 
 
